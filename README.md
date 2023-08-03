@@ -3,7 +3,7 @@ MAD_PWA Lab : Experiments and Mini project
 
 | Experiment No.  | Experiment Details | Github Url |
 | -------------   | ------------- | ------------- |
-| Experiment 1    | CUse of Basic Flutter Widgets (Text , font ,image, container,center,etc.). | https://github.com/shreejeet25/mad_exp01 |
+| Experiment 1    | Use of Basic Flutter Widgets (Text , font ,image, container,center,etc.). | https://github.com/shreejeet25/mad_exp01 |
 | Experiment 2    | Create a Profile Page in Flutter using stateless Widget. | https://github.com/shivadityabaghel/madpwa-exp02 |
 | Experiment 3    | Create a Profile Page in Flutter using stateful Widget. | https://github.com/Suyog045/madexp_3 |
 | Experiment 4    | List View and Card Layout | https://github.com/shreejeet25/mad_exp04 |
